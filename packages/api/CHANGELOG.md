@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [9.6.0](https://github.com/stryker-mutator/stryker-js/compare/v9.5.1...v9.6.0) (2026-02-27)
+
+### Bug Fixes
+
+- **deps:** update mutation-testing-elements monorepo to v3.7.2 ([#5826](https://github.com/stryker-mutator/stryker-js/issues/5826)) ([d471647](https://github.com/stryker-mutator/stryker-js/commit/d47164750a8a308bd29318d246d4d90a2855f004))
+
+### Features
+
+- **cli:** allow percentage-based concurrency configuration (e.g., "50%") ([#5818](https://github.com/stryker-mutator/stryker-js/issues/5818)) ([6e5e76f](https://github.com/stryker-mutator/stryker-js/commit/6e5e76fcf5a9e8fff77c19c8ca4bb4541cca2c38))
+
 ## [9.5.1](https://github.com/stryker-mutator/stryker-js/compare/v9.4.0...v9.5.1) (2026-02-02)
 
 ### Bug Fixes

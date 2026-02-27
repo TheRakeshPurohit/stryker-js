@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [9.6.0](https://github.com/stryker-mutator/stryker-js/compare/v9.5.1...v9.6.0) (2026-02-27)
+
+### Bug Fixes
+
+- **deps:** update babel monorepo ([#5781](https://github.com/stryker-mutator/stryker-js/issues/5781)) ([22d71cf](https://github.com/stryker-mutator/stryker-js/commit/22d71cffaaf56b9de94dc73469da88780baa2b2d))
+- **string-literal-mutator:** exclude dynamic import call expressions from mutation ([#5819](https://github.com/stryker-mutator/stryker-js/issues/5819)) ([06758ba](https://github.com/stryker-mutator/stryker-js/commit/06758ba9ca49d7885a0cd447a01cbdd65c9571aa))
+
 ## [9.5.1](https://github.com/stryker-mutator/stryker-js/compare/v9.4.0...v9.5.1) (2026-02-02)
 
 ### Bug Fixes
